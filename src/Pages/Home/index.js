@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 import api from "../../Services/api";
+import './home.css'
 //BASE DA URL: https://api.themoviedb.org/3/movie/now_playing?api_key=540e44f53147417276c62d0661e2f51f&language=pt-BR
 
 export default function Home() {
