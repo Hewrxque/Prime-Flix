@@ -16,12 +16,18 @@ header{
     font-weight: bold;
 }
 
+.favoritos:hover,
+.favoritos:focus {
+    background-color: #ff00c8;
+    color: #FFFFFF;
+}
+
 .favoritos{
     text-decoration: none;
     cursor: pointer;
     background-color: aliceblue;
     padding: 5px 14px;
-    color: black;
+    color: rgb(0, 0, 0);
     border-radius: 4px;
 
 }
