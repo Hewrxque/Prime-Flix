@@ -43,11 +43,11 @@
 }
 
 .area-buttons button:hover{
-    background-color: rgb(255, 0, 170);
+    background-color: rgb(119, 0, 255);
     color: aliceblue;
 }
 
 .area-buttons a:hover{
-    background-color:rgb(255, 0, 170);
+    background-color:rgb(119, 0, 255);
     color: aliceblue;
 }
